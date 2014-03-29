@@ -1,3 +1,4 @@
 [submodule "src"]
 	path = src
-	url = /Users/polmiro/Development/react-router-component
+	url = https://github.com/polmiro/react-router-component.git
+	branch = feature-expose-querystring-key-environment
